@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\bin\Debug\net6.0\CalculadoraEntidad.deps.json
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\bin\Debug\net6.0\CalculadoraEntidad.dll
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\bin\Debug\net6.0\CalculadoraEntidad.pdb
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\obj\Debug\net6.0\CalculadoraEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\obj\Debug\net6.0\CalculadoraEntidad.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\obj\Debug\net6.0\CalculadoraEntidad.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\obj\Debug\net6.0\CalculadoraEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\obj\Debug\net6.0\CalculadoraEntidad.dll
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\obj\Debug\net6.0\refint\CalculadoraEntidad.dll
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\obj\Debug\net6.0\CalculadoraEntidad.pdb
+C:\Users\Usuario\Desktop\Ejercicios C# UTN\Test Unitarios\Ejercicio I01 - Test Driven Development\Calculadora\obj\Debug\net6.0\ref\CalculadoraEntidad.dll
